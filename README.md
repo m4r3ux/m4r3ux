@@ -1,158 +1,97 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ███╗   ███╗██╗  ██╗██████╗ ██████╗ ██╗  ██╗██╗  ██╗       ║
-║  ████╗ ████║██║  ██║██╔══██╗╚════██╗██║  ██║╚██╗██╔╝       ║
-║  ██╔████╔██║███████║██████╔╝ █████╔╝██║  ██║ ╚███╔╝        ║
-║  ██║╚██╔╝██║╚════██║██╔══██╗ ╚═══██╗██║  ██║ ██╔██╗        ║
-║  ██║ ╚═╝ ██║     ██║██║  ██║██████╔╝╚██████╔╝██╔╝ ██╗      ║
-║  ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝      ║
-╚══════════════════════════════════════════════════════════════╝
+ ██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗
+ ██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
+ ██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
+ ██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
+ ███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
+ ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00FF41&center=true&vCenter=true&width=580&lines=Blue+Team+%7C+SOC+Analyst+in+Training;Threat+Detection+%7C+Log+Analysis+%7C+IR;Wazuh+%E2%80%A2+Sysmon+%E2%80%A2+SIEM+%E2%80%A2+MITRE+ATT%26CK;%22The+quieter+you+become%2C+the+more+you+can+hear.%22)](https://git.io/typing-svg)
 
-<div align="center">
-
-# Luciano "M4r3ux" Gonçalves
-
-**`Blue Team Analyst in Training · Defesa Cibernética · SOC · IR`**
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Defending+systems%2C+one+log+at+a+time.;SOC+%7C+Threat+Detection+%7C+Incident+Response;SIEM+%7C+MITRE+ATT%26CK+%7C+Hardening;Always+learning+%E2%80%94+always+watching.)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucianojgcezar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/lucianojgcezar)
 
 </div>
 
 ---
 
-## `> whoami`
+## $ whoami
 
-```bash
-$ cat /etc/profile.d/m4r3ux.sh
-
-NAME     = "Luciano Gonçalves"
-ALIAS    = "M4r3ux"
-ROLE     = "Blue Team Analyst (em formação)"
-LOCATION = "Brasil 🇧🇷"
-FOCUS    = [
-    "Defesa Cibernética",
-    "SOC Operations",
-    "Hardening & Firewall",
-    "Resposta a Incidentes",
-    "Análise de Logs"
-]
-STATUS   = "🟢 Actively learning | Open to opportunities"
+```yaml
+name:      "Luciano Cezar"
+role:      "Blue Team | SOC Analyst"
+location:  "Piracicaba, SP — Brasil"
+education: "CST Segurança da Informação — UNIP (2026–2028)"
+current:   "Disponível para contratação"
+focus:
+  - Monitoramento & Detecção de Ameaças
+  - Análise e Correlação de Logs (SIEM)
+  - Investigação & Resposta a Incidentes
+  - Threat Hunting & Process Tree Analysis
+mindset:   "Analisar não é sair rodando comando. É entender o contexto primeiro."
 ```
 
 ---
 
-## `> cat mission.txt`
-
-> Meu objetivo é trabalhar na **linha de frente da defesa digital** — detectando ameaças antes que causem dano, respondendo a incidentes com precisão e contribuindo para ambientes mais seguros. Acredito que a segurança defensiva é tão nobre quanto complexa: exige atenção, paciência e raciocínio analítico constante.
-
----
-
-## `> ls -la skills/`
+## 🛡️ Stack Defensivo
 
 <div align="center">
 
-| Domínio | Ferramentas & Conceitos | Nível |
+| | Tecnologia |
+|---|---|
+| **SIEM / EDR** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| **Análise** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Logs](https://img.shields.io/badge/Log_Analysis-222?style=flat-square) |
+| **Plataformas** | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Frameworks** | ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square) |
+| **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+
+</div>
+
+## 🎓 Certificações
+
+<div align="center">
+
+| Badge | Emissor | Ano |
 |---|---|---|
-| 🔵 **SOC Operations** | Palo Alto SOC Fundamentals, Triage, Alertas | ▓▓▓▓░ Em desenvolvimento |
-| 🪟 **Windows Security** | Event Logs, AD, Sysmon, Auditoria | ▓▓▓░░ Em desenvolvimento |
-| 🐧 **Linux Logs** | Syslog, Auth.log, journalctl, auditd | ▓▓▓░░ Em desenvolvimento |
-| 🧠 **MITRE ATT&CK** | TTPs, Táticas, Mapeamento de ataques | ▓▓▓░░ Em desenvolvimento |
-| 📊 **SIEM / Splunk** | SPL, Dashboards, Correlação de eventos | ▓▓░░░ Em desenvolvimento |
-| 🔥 **Firewall & Hardening** | Políticas, Regras, Baseline de segurança | ▓▓░░░ Em desenvolvimento |
-| 🚨 **Resposta a Incidentes** | IR Lifecycle, Contenção, Análise forense | ▓▓░░░ Em desenvolvimento |
-| ⚠️ **Risco & Governança** | Conceitos de GRC, LGPD, ISO 27001 noções | ▓░░░░ Em desenvolvimento |
+| 🔵 Blue Team Junior Analyst (BTJA) | Security Blue Team | 2026 |
+| 🔒 ISO/IEC 27001 Associate | SkillFront | 2026 |
+| 🛡️ Cybersecurity Fundamentals | IBM | 2026 |
+| 📋 Security Operations Fundamentals | Palo Alto Networks | 2026 |
+| 🌐 Fortinet Certified Fundamentals (FCF) | Fortinet | 2026 |
+| 📊 Foundations of Log Analysis | Red Team Leaders | 2026 |
+| 🔌 Networking Basics | Cisco Networking Academy | 2025 |
 
 </div>
 
 ---
 
-## `> ls repos/`
+## 💼 Experiência
 
-<div align="center">
+**Origyn Digital** — *Web Developer & Systems Administrator* `dez/2025 → julho/2026`
+> Administração de servidores VPS Linux, gestão de domínios/DNS, Google Workspace e infra de e-mail. A atuação em infraestrutura reforça a visão de vetores de ataque em ambientes reais.
 
-| Repositório | Descrição | Status |
-|---|---|---|
-| 📘 [**blue-team-self-study**](https://github.com/m4r3ux/blue-team-self-study) | Estudos autodidatas em Segurança Defensiva — Windows, Linux, MITRE, SIEM | 🟢 Ativo |
-| 📕 [**infosec-certification-notes**](https://github.com/m4r3ux/infosec-certification-notes) | Anotações de estudo para certificações em Segurança da Informação | 🟡 Em andamento |
-| 🔬 [**blue-team-writeups**](https://github.com/m4r3ux/blue-team-writeups) | Write-ups de labs e desafios práticos de Blue Team | 🟡 Em andamento |
-
-</div>
+**Go Up Marketing Digital** — *Front-end Pleno & SEO* `dez/2022 → set/2025`
+> +2 anos em desenvolvimento web e performance — base técnica que hoje orienta análise de comportamento de aplicações e sistemas.
 
 ---
 
-## `> cat learning_path.log`
+## 📡 Evolução Atual
 
 ```
-[CONCLUÍDO]   ✅ Palo Alto SOC Fundamentals
-[CONCLUÍDO]   ✅ Fundamentos de Análise de Logs (Linux/Windows)
-[CONCLUÍDO]   ✅ MITRE ATT&CK Framework — Introdução
-[EM CURSO]    🔄 Splunk Core — SPL & Dashboards
-[EM CURSO]    🔄 Threat Detection & Alert Triage
-[PLANEJADO]   📌 CompTIA Security+ / Blue Team Labs Online
-[PLANEJADO]   📌 TryHackMe / Blue Team path
-[PLANEJADO]   📌 Certificação SOC Analyst (nível 1)
+Blue Team Fundamentals  [████████████████████] concluído
+Log Analysis & SIEM     [██████████████████░░] em progresso
+MITRE ATT&CK            [████████████████░░░░] em progresso
+Incident Response       [█████████████░░░░░░░] em progresso
+Threat Intelligence     [██████████░░░░░░░░░░] próximo alvo
 ```
-
----
-
-## `> ping areas_de_interesse`
-
-<div align="center">
-
-![SOC](https://img.shields.io/badge/SOC_Operations-0A0A0A?style=for-the-badge&logo=databricks&logoColor=00D9FF)
-![SIEM](https://img.shields.io/badge/SIEM-Splunk-0A0A0A?style=for-the-badge&logo=splunk&logoColor=00D9FF)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=00FF9F)
-![Firewall](https://img.shields.io/badge/Firewall_&_Hardening-0A0A0A?style=for-the-badge&logo=fortinet&logoColor=FF6B35)
-![IR](https://img.shields.io/badge/Incident_Response-0A0A0A?style=for-the-badge&logo=pagerduty&logoColor=FF3366)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FFC300)
-![Windows](https://img.shields.io/badge/Windows_Security-0A0A0A?style=for-the-badge&logo=windows&logoColor=00BFFF)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-0A0A0A?style=for-the-badge&logo=paloaltonetworks&logoColor=FA582D)
-
-</div>
-
----
-
-## `> tail -f mindset.log`
-
-```
-[INFO]  "A melhor defesa começa pela observação silenciosa."
-[INFO]  Cada log é uma história. Cada alerta, uma oportunidade.
-[INFO]  Blue Team não é passivo — é estratégico.
-[WARN]  Ameaças evoluem. O analista também deve evoluir.
-[INFO]  Aprendizado contínuo: não existe destino, apenas iterações.
-```
-
----
-
-## `> netstat -contact`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-m4r3ux-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m4r3ux)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
-</div>
 
 ---
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════╗
-║  "Protect. Detect. Respond. Repeat."      ║
-║                          — Blue Team Way  ║
-╚═══════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4r3ux&color=00d9ff&style=flat-square&label=profile+views)
+*Pai. Estudante. Analista em formação.*
+*Fazendo acontecer dentro do que é possível — todos os dias.*
 
 </div>
