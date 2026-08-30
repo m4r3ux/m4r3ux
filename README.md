@@ -2,11 +2,6 @@
 
 <h1 align="center">Olá! Eu sou o Luciano 🛡️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=26&color=1F3864&center=true&vCenter=true&width=800&height=100&lines=Blue+Team+%26+SOC;SIEM+%26+Threat+Detection;Ex-Dev+%2F+Infraestrutura;Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
-
-</div>
 
 <br>
 
