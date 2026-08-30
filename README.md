@@ -1,97 +1,127 @@
-<div align="center">
+![](https://komarev.com/ghpvc/?username=m4r3ux&style=flat&color=1F3864)
 
-```
- ██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗
- ██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
- ██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║
- ██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║
- ███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝
- ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00FF41&center=true&vCenter=true&width=580&lines=Blue+Team+%7C+SOC+Analyst+in+Training;Threat+Detection+%7C+Log+Analysis+%7C+IR;Wazuh+%E2%80%A2+Sysmon+%E2%80%A2+SIEM+%E2%80%A2+MITRE+ATT%26CK;%22The+quieter+you+become%2C+the+more+you+can+hear.%22)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucianojgcezar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/lucianojgcezar)
-
-</div>
-
----
-
-## $ whoami
-
-```yaml
-name:      "Luciano Cezar"
-role:      "Blue Team | SOC Analyst"
-location:  "Piracicaba, SP — Brasil"
-education: "CST Segurança da Informação — UNIP (2026–2028)"
-current:   "Disponível para contratação"
-focus:
-  - Monitoramento & Detecção de Ameaças
-  - Análise e Correlação de Logs (SIEM)
-  - Investigação & Resposta a Incidentes
-  - Threat Hunting & Process Tree Analysis
-mindset:   "Analisar não é sair rodando comando. É entender o contexto primeiro."
-```
-
----
-
-## 🛡️ Stack Defensivo
+<h1 align="center">Olá! Eu sou o Luciano 🛡️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
 
-| | Tecnologia |
-|---|---|
-| **SIEM / EDR** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
-| **Análise** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Logs](https://img.shields.io/badge/Log_Analysis-222?style=flat-square) |
-| **Plataformas** | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Frameworks** | ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square) |
-| **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=26&color=1F3864&center=true&vCenter=true&width=800&height=100&lines=Blue+Team+%26+SOC;SIEM+%26+Threat+Detection;Ex-Dev+%2F+Infraestrutura;Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
 
-## 🎓 Certificações
+<br>
 
-<div align="center">
+## 👋 Sobre mim
 
-| Badge | Emissor | Ano |
-|---|---|---|
-| 🔵 Blue Team Junior Analyst (BTJA) | Security Blue Team | 2026 |
-| 🔒 ISO/IEC 27001 Associate | SkillFront | 2026 |
-| 🛡️ Cybersecurity Fundamentals | IBM | 2026 |
-| 📋 Security Operations Fundamentals | Palo Alto Networks | 2026 |
-| 🌐 Fortinet Certified Fundamentals (FCF) | Fortinet | 2026 |
-| 📊 Foundations of Log Analysis | Red Team Leaders | 2026 |
-| 🔌 Networking Basics | Cisco Networking Academy | 2025 |
+Estou em transição de Desenvolvimento/Infraestrutura para Segurança da Informação, com foco em **Blue Team** e operações de **SOC**. Antes disso, atuei como desenvolvedor front-end e administrador de servidores Linux — essa vivência me dá uma leitura mais prática de onde vulnerabilidades realmente aparecem em sistemas reais, não só em teoria.
 
-</div>
+- 🔭 Atualmente estudando detecção de ameaças e resposta a incidentes (Blue Team / SOC Tier 1)
+- 🧪 Construí um home lab de SIEM (Elastic Stack) simulando ataques mapeados ao MITRE ATT&CK
+- 🎓 Cursando Segurança da Informação (UNIP) — previsão de conclusão em 2028
+- 💬 Se quiser trocar uma ideia sobre Blue Team, SOC ou transição de carreira pra segurança, me chama
+
+<br>
+
+## 🔗 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucianojgcezar/" target="_blank">
+    <img border="0" alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  <a href="mailto:lucianojgcezar@gmail.com">
+    <img border="0" alt="E-mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+</p>
+
+<br>
+
+## 🧰 Stack em Segurança
+
+<p align="left">
+  <img alt="SIEM" src="https://img.shields.io/badge/SIEM-Elastic%20%2F%20Wazuh%20%2F%20Splunk-1F3864">
+  <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE%20ATT%26CK-mapping-C8102E">
+  <img alt="Incident Response" src="https://img.shields.io/badge/Incident%20Response-SOC%20Tier%201-2E7D32">
+</p>
+
+<p align="left">
+  <a href="https://www.elastic.co/" target="_blank">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white">
+  </a>
+  <a href="https://www.elastic.co/kibana" target="_blank">
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?logo=kibana&logoColor=white">
+  </a>
+  <a href="https://wazuh.com/" target="_blank">
+    <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-3AAFA9.svg?logoColor=white">
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white">
+  </a>
+  <a href="https://attack.mitre.org/" target="_blank">
+    <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E.svg?logoColor=white">
+  </a>
+</p>
+
+### 💻 Sistemas & Infraestrutura
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  </a>
+</p>
+
+### 🖥️ Desenvolvimento (background anterior)
+
+<p align="left">
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+## 📌 Projeto em destaque
+
+### 🔍 [ELK SIEM Threat Detection Lab](https://github.com/m4r3ux/elk-siem-threat-detection-lab)
+
+Home lab de SIEM construído do zero (Elasticsearch, Kibana, Sysmon, Winlogbeat), com simulação de 5 técnicas de ataque mapeadas ao MITRE ATT&CK — brute force, PowerShell ofuscado, criação de backdoor, entre outras — e alertas automáticos configurados no Kibana para cada cenário.
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=m4r3ux&show_icons=true&locale=en&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=m4r3ux&theme=tokyonight"/>
+</p>
+
+<br>
+
+<p align="center"><i>"A detecção começa onde termina a suposição."</i></p>
+
+<br>
 
 ---
-
-## 💼 Experiência
-
-**Origyn Digital** — *Web Developer & Systems Administrator* `dez/2025 → julho/2026`
-> Administração de servidores VPS Linux, gestão de domínios/DNS, Google Workspace e infra de e-mail. A atuação em infraestrutura reforça a visão de vetores de ataque em ambientes reais.
-
-**Go Up Marketing Digital** — *Front-end Pleno & SEO* `dez/2022 → set/2025`
-> +2 anos em desenvolvimento web e performance — base técnica que hoje orienta análise de comportamento de aplicações e sistemas.
-
----
-
-## 📡 Evolução Atual
-
-```
-Blue Team Fundamentals  [████████████████████] concluído
-Log Analysis & SIEM     [██████████████████░░] em progresso
-MITRE ATT&CK            [████████████████░░░░] em progresso
-Incident Response       [█████████████░░░░░░░] em progresso
-Threat Intelligence     [██████████░░░░░░░░░░] próximo alvo
-```
-
----
-
-<div align="center">
-
-*Pai. Estudante. Analista em formação.*
-*Fazendo acontecer dentro do que é possível — todos os dias.*
-
-</div>
+Piracicaba, SP — Brasil
