@@ -117,6 +117,3 @@ Home lab de SIEM construído do zero (Elasticsearch, Kibana, Sysmon, Winlogbeat)
 <p align="center"><i>"A detecção começa onde termina a suposição."</i></p>
 
 <br>
-
----
-Piracicaba, SP — Brasil
